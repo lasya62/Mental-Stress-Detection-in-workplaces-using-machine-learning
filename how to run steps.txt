@@ -1,0 +1,32 @@
+how to run steps
+
+open anaconda prompt from search
+
+conda activate tf
+
+cd C:\Users\HP\OneDrive\Desktop\A New Perspective on Stress
+
+python app.py
+
+ctrl + click on link 127.0.0.1
+
+register
+login
+
+upload data form dataet 
+predict 
+
+to run algorithm
+
+open another anaconda prompt from search
+
+conda activate tf
+
+cd C:\Users\HP\OneDrive\Desktop\A New Perspective on Stress
+
+
+python algocode.py 
+
+done follow these steps and run i will updload video also will share link 
+ok sir
+
